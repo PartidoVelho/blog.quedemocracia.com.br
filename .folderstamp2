@@ -1,0 +1,42 @@
+This folder: /media/daniella/9C33-6BBD/SD/blog.quedemocracia.com.br
+
+  File: ./20230919_144715.jpg
+  Size: 1651143   	Blocks: 3584       IO Block: 262144 regular file
+Device: 8,81	Inode: 1088        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-19 20:47:50.000000000 -0300
+Modify: 2023-09-19 14:47:17.000000000 -0300
+Change: 2023-09-19 14:47:17.000000000 -0300
+ Birth: 2023-09-19 20:47:50.000000000 -0300
+IPFS hash: QmXqjZAiCEbQn1BT5t9pEVGuWs2w1dfXER5J3hYapWEyTc
+------------------------------
+  File: ./20230919_145228.jpg
+  Size: 1504724   	Blocks: 3072       IO Block: 262144 regular file
+Device: 8,81	Inode: 1089        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-19 20:47:50.000000000 -0300
+Modify: 2023-09-19 14:52:30.000000000 -0300
+Change: 2023-09-19 14:52:30.000000000 -0300
+ Birth: 2023-09-19 20:47:50.000000000 -0300
+IPFS hash: QmYbzZNiecJDEDJFvuhNLMU5SCzdmw8uuHtoGhNZxYiTNk
+------------------------------
+  File: ./20230919_171440.jpg
+  Size: 1987024   	Blocks: 4096       IO Block: 262144 regular file
+Device: 8,81	Inode: 1087        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-19 20:47:50.000000000 -0300
+Modify: 2023-09-19 17:14:42.000000000 -0300
+Change: 2023-09-19 17:14:42.000000000 -0300
+ Birth: 2023-09-19 20:47:50.000000000 -0300
+IPFS hash: QmQHBrQ1T5Hp82DBxr9hvbyh9FMYAJXeb4UibdkjWafVVG
+------------------------------
+  File: ./hugo
+  Size: 262144    	Blocks: 512        IO Block: 262144 directory
+Device: 8,81	Inode: 1300        Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-19 20:53:08.000000000 -0300
+Modify: 2023-09-19 20:53:08.200000000 -0300
+Change: 2023-09-19 20:53:08.200000000 -0300
+ Birth: 2023-09-19 20:53:08.200000000 -0300
+IPFS hash: 
+------------------------------
